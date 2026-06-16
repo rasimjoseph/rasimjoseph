@@ -3,4 +3,6 @@ I'm a PhD student in the Department of Chemical & Biomolecular Engineering at Tu
 
 I'm currently working to identify the mechanisms underlying phenotypic shifts in immune cell populations of the glioblastoma tumor microenvironment. <br>
 
-Outside of research, I'm a classically trained pianist, and I spend a lot of time exploring new pieces.
+Outside of research, I'm a classically trained pianist, and I spend a lot of time exploring new pieces. <br>
+
+Reach out: ryusifov@tulane.edu
